@@ -1,4 +1,5 @@
-# hello_app
+# first-vue
+Vue.js練習用
 
 ## Project setup
 ```
